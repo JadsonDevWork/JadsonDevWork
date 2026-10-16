@@ -1,4 +1,5 @@
-# Hello world! 👋 My name is Jadson Oliveira
+<h3 class="heading-element" dir="auto">
+# Hello world! 👋 My name is Jadson Oliveira </h3>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"><img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/raw/main/assets/rainbow-superthin.webp" style="max-width: 100%;"></a></p>
 
