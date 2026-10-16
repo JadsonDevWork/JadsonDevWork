@@ -35,4 +35,4 @@ Seja para trocar ideias sobre desenvolvimento de software, mercado financeiro ou
 <a href="https://www.instagram.com/eujadson_36/" rel="nofollow"><img align="center" src="https://github.com/SamirPaulb/SamirPaulb/raw/main/assets/instagram.svg" alt="" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
 </p>
 
-<p dir="auto"><a href="https://www.linkedin.com/in/alessandra-nastassja/" rel="nofollow"><img align="center" src="https://github.com/SamirPaulb/SamirPaulb/raw/main/assets/linkedin.svg" alt="" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a></p>
+<p dir="auto"><a href="https://www.linkedin.com/in/dev-jadson-oliveira/" rel="nofollow"><img align="center" src="https://github.com/SamirPaulb/SamirPaulb/raw/main/assets/linkedin.svg" alt="" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a></p>
