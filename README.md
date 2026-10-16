@@ -1,7 +1,6 @@
 # Hello world! 👋 My name is Jadson Oliveira
 
-<img src="https://githubusercontent.com" width="100%" height="3px">
-
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"><img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/raw/main/assets/rainbow-superthin.webp" style="max-width: 100%;"></a></p>
 
 Sou um profissional de tecnologia e negócios, unindo experiência como **Especialista em Negócios (Empréstimos)** e **Suporte Técnico**, atualmente me especializando como **Desenvolvedor Full Stack**. Apaixonado por resolver problemas reais através do código e criar soluções eficientes para o mercado. 🚀
 
